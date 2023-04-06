@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  margin-top: 170px;
+  background-image: url('/');
+  background-position: center;
+}
+h2 {
+  font-size: 30px;
+  padding-top: 10px;
+}
